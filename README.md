@@ -14,6 +14,11 @@ To install the required libraries, run the following command:
 ```python3
 pip install pandas surprise sqlite3
 ```
+OR
+```python3
+pip3 install pandas surprise sqlite3
+```
+
 
 ## Usage
 1. Load the shopping history and preferences data into a database.
